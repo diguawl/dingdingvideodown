@@ -7,6 +7,7 @@
 <br> 
 软件下载地址：http://www.diguasoft.com 
 <br>
+![地瓜网络技术](1211.png)
 
 
 
